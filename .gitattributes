@@ -1,0 +1,6 @@
+fsdk/win64/facesdk.dll filter=lfs diff=lfs merge=lfs -text
+fsdk/linux64/libfsdk.so filter=lfs diff=lfs merge=lfs -text
+fsdk/linux32/libfsdk.so filter=lfs diff=lfs merge=lfs -text
+fsdk/win32/facesdk.dll filter=lfs diff=lfs merge=lfs -text
+fsdk/linux32_arm/libfsdk.so filter=lfs diff=lfs merge=lfs -text
+fsdk/osx_x86_64/libfsdk.dylib filter=lfs diff=lfs merge=lfs -text
